@@ -1,4 +1,4 @@
-# Game-library-Javascript
+# Game-library-JavaScript
 A simple game store project built with JavaScript.  
 This project is made to practice JavaScript fundamentals like arrays, objects, DOM manipulation, and functions.
 
@@ -32,14 +32,6 @@ This project is made to practice JavaScript fundamentals like arrays, objects, D
 - DOM manipulation
 - Event handling
 - setTimeout()
-
-## Future Improvements
-
-- Add search system
-- Add sorting by price/rating
-- Add shopping cart
-- Improve UI design
-- Add real game images
 
 ## Author
 
